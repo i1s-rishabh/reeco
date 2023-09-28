@@ -67,7 +67,7 @@ We would like to acknowledge the open-source community and the creators of the t
 
 ## Contact
 
-If you have any questions or need support, you can contact us at [your_email@example.com](mailto:your_email@example.com).
+If you have any questions or need support, you can contact us at sharmarishabh.2018@gmail.com.
 
 ---
 
