@@ -1,6 +1,3 @@
-Certainly! Here's a README file tailored to your project:
-
-```markdown
 # Reeco Checkout || Order Approval
 
 ## Description
