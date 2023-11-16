@@ -67,8 +67,3 @@ We would like to acknowledge the open-source community and the creators of the t
 If you have any questions or need support, you can contact us at sharmarishabh.2018@gmail.com.
 
 ---
-
-Feel free to customize this README further to match your project's specific details. It's a great way to provide users and contributors with essential information about your Reeco Checkout || Order Approval application.
-```
-
-You can replace `your_email@example.com` with your actual contact email. Additionally, consider creating a `CONTRIBUTING.md` and `LICENSE.md` file if you haven't already, and link to them in the README for more comprehensive documentation.
